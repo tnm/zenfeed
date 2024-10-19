@@ -43,7 +43,7 @@ Once installed, just browse LinkedIn as usual. The extension will automatically 
 ## Customization
 
 To use your own images:
-1. Replace the image-1.jpg through image-5.jpg files with your preferred images
+1. Replace the image-1.png through image-5.png files with your preferred images
 2. Make sure to keep the same file names
 3. Reload the extension in the Chrome extensions page
 
