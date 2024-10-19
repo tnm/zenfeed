@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "zenfeed",
+  "version": "1.0",
+  "description": "Replaces LinkedIn feed with a zen-like image",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["image-1.png", "image-2.png", "image-3.png", "image-4.png", "image-5.png"],
+      "matches": ["https://www.linkedin.com/*"]
+    }
+  ],
+  "action": {}
+}
