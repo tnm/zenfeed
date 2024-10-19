@@ -38,6 +38,8 @@ To install this extension directly from GitHub:
 
 Once installed, just browse LinkedIn as usual. The extension will automatically hide the news feed and replace it with a randomly selected image. The image will change each time you refresh the page or navigate to a different LinkedIn page.
 
+![alt text](example.png)
+
 ## Customization
 
 To use your own images:
